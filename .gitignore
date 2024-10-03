@@ -1,3 +1,4 @@
 .ipynb_checkpoints
 random_forest/preprocessed_train_valid.pkl
 random_forest/default
+models/
